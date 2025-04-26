@@ -1,6 +1,6 @@
 # YoutubeVideoTranscripts (YouTube Transcript App)
 
-**YoutubeVideoTranscripts** lets you instantly fetch, view, and search transcripts from any YouTube video with available captions. Make the most of YouTube content by finding and navigating through spoken words with ease.
+[YoutubeVideoTranscripts.com](https://youtubevideotranscripts.com) lets you instantly fetch, view, and search transcripts from any YouTube video with available captions. Make the most of YouTube content by finding and navigating through spoken words with ease.
 
 **Features:**
 - Extract transcripts from any YouTube video with available captions
